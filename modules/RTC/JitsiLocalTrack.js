@@ -28,7 +28,7 @@ import JitsiTrack from './JitsiTrack';
 import RTCUtils from './RTCUtils';
 
 const logger = getLogger(__filename);
-console.log("ljm_5x JLT")
+console.log("ljm_5x JLT2")
 /**
  * Represents a single media track(either audio or video).
  * One <tt>JitsiLocalTrack</tt> corresponds to one WebRTC MediaStreamTrack.
