@@ -55,7 +55,6 @@ const USER_MEDIA_PERMISSION_PROMPT_TIMEOUT = 1000;
  * @return the next lowest resolution from the given one, or {@code null} if it
  * is already the lowest acceptable resolution.
  */
- console.log("ljm_5x 3 ...")
 function getLowerResolution(resolution) {
     if (!Resolutions[resolution]) {
         return null;
