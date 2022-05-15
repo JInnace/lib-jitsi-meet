@@ -70,8 +70,6 @@ const logger = getLogger(__filename);
  * @type {number}
  */
 const JINGLE_SI_TIMEOUT = 5000;
-console.log("git_pull_dep!!!")
-window.git_pull_dep=1
 
 /**
  * Creates a JitsiConference object with the given name and properties.
